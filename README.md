@@ -1,2 +1,5 @@
 # HELLO_WORLD1
-new REPO
+
+knowing about GIt
+
+python, ruby 
